@@ -69,7 +69,7 @@ const PRODUCTOS = [
     descuentoPorcentaje: 0,
     descripcion: "Perfil medio, buena duracion y 24 meses de estacionamiento. Una alternativa equilibrada dentro del estilo Rei Verde para quienes buscan una yerba organica sin resignar caracter.",
     fotoEmpaque: "assets/reiverdemarron.PNG",
-    fotoMolienda: "assets/organica2"
+    fotoMolienda: "assets/organica2.PNG"
   },
   {
     id: 8,
